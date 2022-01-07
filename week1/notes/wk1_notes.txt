@@ -5,4 +5,33 @@ Monday 3 January: Time Spent - 4 hours
 -Read the Syllabus but could not purchase the premium account for Site Point through BYU-I BookStore (waiting for feedback on the issue)
 -Reading through the Portfolio section and creating my portfolio for Week 1
 
+
+Tuesday 4 January:
+Doing Stuff with Web Things
+-Sanboxing(testing) is the best approach when creating developing something new.
+-Four steps to developing: Think, Design, Test, and Create
+-Think: What is the outcome? Do I have the skills needed or where can I get the knowledge/skills?
+-Design: How should it behave/look/feel? How should it interact with other hardware/software?
+-Test: What standards should it meet? User Interaction Testing, Unit Testing, Component Testing, System testing, and Installation testing
+ If you are unsure about what data the system should send back or the desired outcome for the testing then you have not completed steps Think and/or Design correctly
+-Create: You will notice weaknesses in your design and testing, do not throw away and start again, but modify steps 1-3.
+ DO NOT USE THE 'THINK LAST' APPROACH! This leads to software shipping late, over budget, and features missing or wrong altogether.
+-Purpose of html, CSS, and JS:
+ HTML - Define what is shown to the User
+ CSS - Make the content pleasant to see
+ JS - make the UX interactive instead of passive
+
+Thursday 6 January:
+-Continued on with the "Doing Stuff with Web Things" book and completed the first_event exercises.
+-When dealing with user input, use the ".value" string
+-When showing an output to the user, use the ".innerHTML" string 
+-localStorage uses key-value pairs. The key with an associated value.
+-Worked on story_editor exercise for about an hour, but couldn't get the "find and edit" button to work
+
+Friday 7 January:
+-Completed the story_editor exercise, some code misspelled
+
+
+
 QUESTIONS:
+-In the first_event exercise we use "(this)" in the JS Code and also the function "(thisButtonClicked)" - this is still confusing to me as I don't see how it relates to the html code?
