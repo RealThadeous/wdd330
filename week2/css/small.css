@@ -1,0 +1,10 @@
+/*------------ CODE FOR STORY EDITOR PAGE -----------------*/
+body {
+    padding: 10px;
+}
+textarea{
+    margin: 0 auto;
+    width:800px;
+    height: 250px;
+    background-color: lightgrey;
+    }

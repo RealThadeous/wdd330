@@ -1,0 +1,28 @@
+GRANT BOREHAM WDD330 WEEK 2 NOTES
+
+Monday 10 January
+-Spent time trying to figure out how to get access to Site Point through BYU-I...at this stage I'm about to just purchase a membership directly through Site Point
+-Sent message to my team to arrange first meeting
+-Set up my week 2 notes and local repository on VS Code
+-Began reading Chapter 2 of "Eloquent JavaScript":
+    -Expression: code that produces a value
+    -values are held in a binding or variable. The word let or var indicates that you are creating a variable e.g. let ten = 10; console.log(ten * ten); // → 100.
+    -var is a way to declare a variable but is hardly used due to its complications. const is a constant and will keep its value. let can change its value by declaring a new value for it.
+    -you can use let once to declare multiple expressions e.g. let one = 1, two = 2 etc.
+    -Binding names (the value of an expression) can be any letter, number and ONLY be "$" and/or "_" symbols (other symbols won't work). Binding names must not begin with a number(will be declared as a number and will give errors).
+    -Executing a function is called invoking, calling, or applying it
+    -Values given to functions are called arguments
+    -Some functions are "built in" and called modules or libraries e.g. console.log(Math.max(2, 4)); // → 4 or console.log(Math.min(2, 4) + 100); // → 102
+
+Tuesday 11 January
+-Continued with Chapter 2 of "Eloquent Javascript"
+    -Spent over an hour Completing the exercises at the end of the chapter - I needed to look at the author code for exercises 2 & 3
+
+Thursday 13 January
+-Met with our team for just over an hour and completed 2 core exercises. I had to leave early as I needed to go see my wife and new baby in the hospital-new baby was in NICU for two nights.
+
+Saturday 15 January
+-Began Chapter 3 of "Eloquent JavaScript":
+    
+Questions/Observations:
+-I need to learn how to use arrow functions better in order to move forward in this course.

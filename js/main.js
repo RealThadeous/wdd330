@@ -1,8 +1,6 @@
 const items = [
-    {
-        label: "WEEK 1",
-        url: "week1/index.html",
-    }
+        { label: "WEEK 1", url: "week1/index.html" },
+        { label: "WEEK 2", url: "week2/index.html" },
     
 ]
 
