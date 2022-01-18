@@ -1,0 +1,16 @@
+GRANT BOREHAM WDD330 WEEK 3 NOTES
+
+Monday 17 January
+Continued with chapter 3 of "Eloquent JavaScript" book:
+    -let and const are local to the block they are created in. var is visible in a global scope
+    -you can declare a function binding by putting "function" first e.g. function square(x) {return x * x;}. This allows you to order the code as you please
+    and not from top-to-bottom (i.e. the function can be declared after the code that calls the function)
+    -arrow function "=>" is used to replace the word function e.g. original const power = function(base, exponent) {insert rest of code}, can rather be typed
+    const power = (base, exponent) => {insert rest of code}
+    -When there is only 1 parameter then you do not need the brackets around the parameter e.g. const square1 = (x) => { return x * x; }; const square2 = x => x * x;
+    -When no parameter then just empty brackets i.e. const horn = () => {console.log("Toot");};
+    -If you give function one parameter, but then then try and call two parameters, the code will ignore they second parameter call e.g. function square(x) { return x * x; } console.log(square(4, true, "hedgehog")); // → 16
+    -If you pass/call too few parameters, the missing paramters are assigned the value "undefined"
+    -If there is a missing parameter you can tell the code what to do e.g. function minus(a, b) {if (b === undefined) return -a;else return a - b;}console.log(minus(10)); // → -10 console.log(minus(10, 5)); // → 5
+    -Alternatively you can set the value of a parameter incase it is not given e.g. function power(base, exponent = 2) {let result = 1; for (let count = 0; count < exponent; count++) {result *= base;}return result;} console.log(power(4)); // → 16 console.log(power(2, 6)); // → 64
+    -Always start off with writing code that is correct, and if you are worried it is too slow then come and optimize it.

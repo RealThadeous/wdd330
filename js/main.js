@@ -1,7 +1,7 @@
 const items = [
         { label: "WEEK 1", url: "week1/index.html" },
         { label: "WEEK 2", url: "week2/index.html" },
-    
+        { label: "WEEK 3", url: "week3/index.html" },
 ]
 
 items.forEach((item) => {
