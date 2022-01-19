@@ -37,3 +37,22 @@ console.log(countChar("GGG", "G"))
 // → 2
 console.log(countChar("kakkerlak", "k"));
 // → 4
+
+console.log("Exercise: Create Calculator from Object Methods: this reading")
+let calculator = {
+  read() {
+    this.num1 = +prompt("Enter a first number:" );
+    this.num2 = +prompt("Enter a second number:" );
+  },
+  sum() {
+    total = this.num1 + this.num2;
+    return total;
+  },
+  mul() {
+    return this.num1 * this.num2;
+  }
+};
+
+calculator.read();
+console.log( calculator.sum() );
+console.log( calculator.mul() );
