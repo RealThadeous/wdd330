@@ -33,3 +33,15 @@ Began reading "Object Methods: this" on javascript.info website:
     -The value of "this" is the object “before dot”, the one used to call the method, e.g. let user = {name: "John", age: 30, sayHi() {// "this" is the "current object" alert(this.name);} }; user.sayHi(); // John
      In this example "this" is replacing the object "user". Using "this" instead of the object name helps to avoid problems e.g. if you overwrite the object with another variable e.g. user = admin.
     -Complete the "Create a Calculator" exercise
+
+Thursday 20 January
+-Met with my team to complete the team exercises.
+
+Friday 21 January
+-Finally got a copy of the JavaScript Novice to Ninja 2 book
+-Began reading chapter 6 of JS Novice to Ninja 2 book:
+    -HTML tag is the root node, with every other tag being its child node.
+    -typeOf "insert object/var name" shows you what type the element is
+
+QUESTIONS
+-Is window.prompt creating a string? How do you get it to input an integer?
