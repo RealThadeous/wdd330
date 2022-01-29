@@ -1,0 +1,6 @@
+Monday 24th January:
+-Began chapter 8 of JavaScript Ninja 2 - Forms:
+    -<form> uses inputs, buttons and menus
+    -when form is submitted you can process data in frontend using JS before it is sent to the backend(server).
+    -began the exercise on "search.html" where we create a form that is used to search for data like Google.
+    
