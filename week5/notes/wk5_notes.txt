@@ -1,0 +1,18 @@
+GRANT BOREHAM WDD330 WEEK 5 NOTES
+
+Monday 31 January:
+-I continued with week 4's reading and exercises to try and catch up.
+-I began with the Week 6 assignment
+-I copied the trello board for the week 6 assignment
+
+Tuesday 1 February:
+-I continued coding my week 6 assignment
+-I managed to complete the html elements and began with css according to wireframe
+
+Thursday 3 February:
+-Met with my team and completed the 3 core and one strectch activities
+
+Questions/Observations:
+-Look into Local Storage again for week 6 assignment
+
+

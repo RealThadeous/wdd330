@@ -3,6 +3,7 @@ const items = [
         { label: "WEEK 2", url: "week2/index.html" },
         { label: "WEEK 3", url: "week3/index.html" },
         { label: "WEEK 4", url: "week4/index.html" },
+        { label: "WEEK 5", url: "week5/index.html" },
 
 ]
 
